@@ -1,0 +1,12 @@
+/home/orion/src/personal/tbd-editor/prelude/target/rls/debug/deps/proc_macro2-01565a40476d17d8.rmeta: /home/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.26/src/lib.rs /home/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.26/src/marker.rs /home/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.26/src/parse.rs /home/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.26/src/detection.rs /home/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.26/src/fallback.rs /home/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.26/src/wrapper.rs
+
+/home/orion/src/personal/tbd-editor/prelude/target/rls/debug/deps/libproc_macro2-01565a40476d17d8.rlib: /home/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.26/src/lib.rs /home/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.26/src/marker.rs /home/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.26/src/parse.rs /home/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.26/src/detection.rs /home/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.26/src/fallback.rs /home/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.26/src/wrapper.rs
+
+/home/orion/src/personal/tbd-editor/prelude/target/rls/debug/deps/proc_macro2-01565a40476d17d8.d: /home/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.26/src/lib.rs /home/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.26/src/marker.rs /home/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.26/src/parse.rs /home/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.26/src/detection.rs /home/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.26/src/fallback.rs /home/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.26/src/wrapper.rs
+
+/home/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.26/src/lib.rs:
+/home/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.26/src/marker.rs:
+/home/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.26/src/parse.rs:
+/home/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.26/src/detection.rs:
+/home/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.26/src/fallback.rs:
+/home/orion/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro2-1.0.26/src/wrapper.rs:
